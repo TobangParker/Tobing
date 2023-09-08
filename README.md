@@ -1,0 +1,2 @@
+# Tobing
+Latihan pertama
